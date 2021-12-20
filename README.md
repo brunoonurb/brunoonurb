@@ -1,11 +1,9 @@
 <h1 align="center">Oii 👋, me chamo Bruno</h1>
-<h3 align="center">Sou desenvolvedor fullstack, gosto de aprender novas tecnologias mesmo fazendo maior confusão de sintaxe(as vezes) :). Atualmente atuo com as linguagens de PHP, js e utilizando alguns frameworks como nestJs, react, bootstrap e um pouquinho de spring boot em Java. E claro, sempre tentando usar boas práticas (design pattern, clean code). Em relação de banco de dados o mais frequente é Mysql, MariaDB e nos projetos pessoais MongoDB.</h3>
+<p align="center">Sou desenvolvedor fullstack, gosto de aprender novas tecnologias mesmo fazendo maior confusão de sintaxe(as vezes) :). Atualmente atuo com as linguagens de PHP, js e utilizando alguns frameworks como nestJs, react, bootstrap e um pouquinho de spring boot em Java. E claro, sempre tentando usar boas práticas (design pattern, clean code). Em relação de banco de dados o mais frequente é Mysql, MariaDB e nos projetos pessoais MongoDB.</p>
 
-- 🔭 No momento nas horas vagas [Projeto de React Native](https://github.com/brunoonurb/mobile_ieq)
+- 🔭 No momento nas horas vagas [Projeto de React Native](https://github.com/brunoonurb/mobile_ieq), [Projeto de NestJs](https://github.com/brunoonurb/api-ieq-nest)
 
 - 🌱 No momento, estou aprendendo **Micro Serviços, TDD, Docker**
-
-- 🔭 No momento nas horas vagas [Projeto de NestJs](https://github.com/brunoonurb/api-ieq-nest)
 
 - 👨‍💻 Todos os meus projetos publicos estão disponíveis [https://github.com/brunoonurb?tab=repositories](https://github.com/brunoonurb?tab=repositories)
 
@@ -15,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-da-silva-pedroso-a42691173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-da-silva-pedroso-a42691173/" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/bruno.pedroso.102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/bruno.pedroso.102/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bru_pedroso17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bru_pedroso17/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-da-silva-pedroso-a42691173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-da-silva-pedroso-a42691173" height="30" width="40" /></a>
+<a href="https://fb.com/bruno.pedroso.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bruno.pedroso.102" height="30" width="40" /></a>
+<a href="https://instagram.com/bru_pedroso17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bru_pedroso17" height="30" width="40" /></a>
 <a href="https://discord.gg/Bruno Pedroso#4989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bruno Pedroso#4989" height="30" width="40" /></a>
 </p>
 
